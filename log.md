@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 7, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 * Creation of the base project and default files which are required
