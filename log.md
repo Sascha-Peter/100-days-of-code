@@ -30,3 +30,18 @@ own and the prettification of the urls for password reset go well along with the
 of the url structure I have in mind or my future pet projects.
 
 **Link to work:** [Django Project Template](https://github.com/Sascha-Peter/django-project-template)
+
+### Day 3: January 10, 2017
+
+**Today's Progress**: 
+* Creation of cookiecutter template
+* Adjustment of the project to make use of the cookiecutter parameters
+
+**Thoughts:** 
+I've heard about cookiecutter ages ago but didn't use it myself. Now as I've re-discovered it
+and confirmed that I'm about as smarty pants as a few thousand developers who already done an
+impressive and comprehensive django-template for cookie cutter, I'm even more happy about finishing
+this project :D I'll re-invent the wheel but for my own needs. I might actually do a cookiecutter
+django template for OpenShift, which is quite a bit different from a regular django setup. We will see.
+
+**Link to work:** [Django Project Template](https://github.com/Sascha-Peter/django-project-template)
