@@ -45,3 +45,16 @@ this project :D I'll re-invent the wheel but for my own needs. I might actually 
 django template for OpenShift, which is quite a bit different from a regular django setup. We will see.
 
 **Link to work:** [Django Project Template](https://github.com/Sascha-Peter/django-project-template)
+
+### Day 4: January 11, 2017
+
+**Today's Progress**: 
+* Change cookie cutter project structure
+
+**Thoughts:** 
+There's been a few issues around the cookie cutter usage which made me look into some of the 
+example cookie cutter templates other people have been doing and I've found that there was an issue
+with my folder structure. I'm still debugging it as I've not completely resolved it but hope to get that
+done in the next session.
+
+**Link to work:** [Django Project Template](https://github.com/Sascha-Peter/django-project-template)
