@@ -73,3 +73,23 @@ but it's quite late and I'm too tired to look into that now - also spend the tim
 the project today already.
 
 **Link to work:** [Django Project Template](https://github.com/Sascha-Peter/django-project-template)
+
+### Day 6: January 15, 2017
+
+**Today's Progress**: 
+* Set up the quickstart of django-restframework
+* Read part of the documentation
+
+**Thoughts:** 
+Having worked with Django for over 5 years before, I always had the feeling that flask was very crafty. 
+The work with flask over the last year was a very good learning experience and I learned a bit more about the
+odds and ends of what a framework needs - but then again, I also learned to much more appreciate the 
+"magic" which django gives you out of the box. The tidious repetitive tasks which you don't have to hand-write
+and just go ahead with your code on which you can focus. 
+
+Now looking at django-restframework, I feel even more so like we've been wasting so much time re-doing the same 
+settings over and over again. Cookiecutter was the first step into the right direction of cutting away tidious
+setup time and django restframework is the next step of going away from re-doing the same stuff in flask over
+and over again - but in django.
+
+**Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
