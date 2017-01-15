@@ -58,3 +58,18 @@ with my folder structure. I'm still debugging it as I've not completely resolved
 done in the next session.
 
 **Link to work:** [Django Project Template](https://github.com/Sascha-Peter/django-project-template)
+
+### Day 5: January 14, 2017
+
+**Today's Progress**: 
+* Adjusted the django templates not to contain conflicting jinja2 syntax
+* Set correct paths in the settings file
+* Made the cookiecutter template work
+
+**Thoughts:** 
+Jinja2 is a pain in the butt and I'd refrain from using it in conjunction with django projects. 
+Unfortunately, cookiecutter installs jinja2 as it uses it itself. I'm sure there is a way around
+but it's quite late and I'm too tired to look into that now - also spend the time I allocated for
+the project today already.
+
+**Link to work:** [Django Project Template](https://github.com/Sascha-Peter/django-project-template)
