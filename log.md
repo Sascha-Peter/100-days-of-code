@@ -93,3 +93,18 @@ setup time and django restframework is the next step of going away from re-doing
 and over again - but in django.
 
 **Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
+
+### Day 7: January 23, 2017
+
+**Today's Progress**: 
+* Complete chapter 1 of the Django RESTframework tutorial - Serializing
+
+**Thoughts:** 
+Coming from a django background, things are pretty familiar in the way how the django rest framework is handling
+it's implementation and notation. Instead of forms you have views with serializers, you call the JSON renderers
+instead of the render function of templates, etc. 
+
+I think there is a lot which can be done in very little time in comparison of having to set up a flask app, unless cookie
+cutter is involved and you have all your building blocks ready to add-on / install as pip packages.
+
+**Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
