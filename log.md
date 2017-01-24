@@ -108,3 +108,19 @@ I think there is a lot which can be done in very little time in comparison of ha
 cutter is involved and you have all your building blocks ready to add-on / install as pip packages.
 
 **Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
+
+### Day 8: January 24, 2017
+
+**Today's Progress**: 
+* Complete chapter 2 and half of chapter 3 of the tutorial on Django RESTFramework
+
+**Thoughts:** 
+Now it starts looking and feeling like a django app :D Built in error codes, request/response objects which you can
+manipulate and fill in, built-in admin panel which incorporates your doc strings into the api documentation, automated
+form for posting and deleting things on the API in the docs itself, very django'esk :D Next things will be middleware
+and other fun topics, can't wait!
+
+If we'd do django restframework at work we'd save so much time. I'll make sure that it will be put onto the radar of 
+management.
+
+**Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
