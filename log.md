@@ -124,3 +124,16 @@ If we'd do django restframework at work we'd save so much time. I'll make sure t
 management.
 
 **Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
+
+### Day 9: January 25, 2017
+
+**Today's Progress**: 
+* Complete chapter 3 of the django restframework tutorial
+
+**Thoughts:** 
+Class based view which provides get/put/delete functionality on a restful resource done in 6 lines.
+Yep, we're definitely doing Django right now :D 
+So much built in just as I was used to from django itself. Much pre-build, such convenience, wow. ;)
+Definitely implementing some of my pet projects in Django RESTFramework instead of using flask. 
+
+**Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
