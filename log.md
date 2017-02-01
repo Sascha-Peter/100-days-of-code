@@ -137,3 +137,18 @@ So much built in just as I was used to from django itself. Much pre-build, such 
 Definitely implementing some of my pet projects in Django RESTFramework instead of using flask. 
 
 **Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
+
+### Day 10: February 1, 2017
+
+**Today's Progress**: 
+* Started with chapter 4 of the django restframework tutorial
+
+**Thoughts:** 
+I work way too hard and way too long in order to keep up with daily 1 hour private coding exercises in my
+spare time. I've done half an hour today and was only able to start at 10pm as there was too much stuff going 
+on, mainly work related besides some household items. I think I may reduce my overall time to half an hour a day
+as that is way more managable, but after this 100 day coding challenge is done, I may will not continue to do
+a daily thing anymore as all my other hobbies have just stopped and the 4 hours a day I have for spare time before
+sleep is a bit too valuable to put it all into coding all the time.
+
+**Link to work:** [Django RESTframework test](https://github.com/Sascha-Peter/django-restframework-test)
